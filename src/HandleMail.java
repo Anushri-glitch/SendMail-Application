@@ -1,7 +1,7 @@
 package org.geekster;
 
-import org.example.MailAuthenticator;
-import org.example.MailConstants;
+import org.geekster.MailAuthenticator;
+import org.geekster.MailConstants;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
