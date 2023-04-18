@@ -8,6 +8,6 @@ public class MailAuthenticator extends Authenticator {
     @Override
     protected PasswordAuthentication getPasswordAuthentication(){
 
-        return new PasswordAuthentication(MailConstants.SENDER, "lomudhsxzpczcuhd");
+        return new PasswordAuthentication(MailConstants.SENDER, "orwmfgapfopqirvy");
     }
 }
